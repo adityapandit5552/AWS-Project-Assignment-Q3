@@ -1,6 +1,6 @@
 # AWS Q3 – EC2 + RDS Student Registration Application
 
-## Project Overview
+⭐## Project Overview
 
 This project demonstrates the deployment of a student registration web application using **Amazon EC2 and Amazon RDS for MySQL**.
 
@@ -53,7 +53,7 @@ The EC2 web server is placed in a public subnet, while the RDS database is deplo
              +---------- Port 3306 --------+
 ```
 
-## Network Configuration
+⭐ Network Configuration
 
 ### VPC
 
@@ -138,7 +138,7 @@ Inbound rules:
 
 The EC2 Security Group allows web access while restricting SSH access to the administrator's IP address.
 
-## RDS Configuration
+⭐## RDS Configuration
 
 The database was created using Amazon RDS for MySQL.
 
@@ -151,7 +151,7 @@ Public Access: No
 
 The RDS instance was deployed using a DB subnet group containing the two private subnets.
 
-## RDS Security Group
+⭐## RDS Security Group
 
 ```text
 Name: Q3-RDS-SG
@@ -284,7 +284,7 @@ The following tests were performed:
 - Verified successful insertion.
 - Verified student records were retrieved from RDS.
   
-## working web url
+⭐## working web url
 
 http://aditya-aws-static-website-2026.s3-website.ap-south-1.amazonaws.com/
 
@@ -294,7 +294,7 @@ The student registration application was successfully deployed on Amazon EC2 and
 
 Student records can be submitted through the web application, stored in Amazon RDS, and retrieved successfully.
 
-## Screenshots
+⭐## Screenshots
 
 ### 1. VPC Configuration
 
