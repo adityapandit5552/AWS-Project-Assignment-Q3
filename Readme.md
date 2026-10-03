@@ -151,7 +151,7 @@ Public Access: No
 
 The RDS instance was deployed using a DB subnet group containing the two private subnets.
 
-⭐## RDS Security Group
+⭐ ## RDS Security Group
 
 ```text
 Name: Q3-RDS-SG
@@ -284,9 +284,6 @@ The following tests were performed:
 - Verified successful insertion.
 - Verified student records were retrieved from RDS.
   
-⭐## working web url
-
-http://aditya-aws-static-website-2026.s3-website.ap-south-1.amazonaws.com/
 
 ## Result
 
