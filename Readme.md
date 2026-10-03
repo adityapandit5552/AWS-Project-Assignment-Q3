@@ -283,6 +283,10 @@ The following tests were performed:
 - Submitted student information through the web application.
 - Verified successful insertion.
 - Verified student records were retrieved from RDS.
+  
+## working web url
+
+http://aditya-aws-static-website-2026.s3-website.ap-south-1.amazonaws.com/
 
 ## Result
 
