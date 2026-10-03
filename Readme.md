@@ -2,8 +2,6 @@
 
 ## Project Overview ⭐
 
-http://aditya-aws-static-website-2026.s3-website.ap-south-1.amazonaws.com/ 
-
 This project demonstrates the deployment of a student registration web application using **Amazon EC2 and Amazon RDS for MySQL**.
 
 The application runs on an Ubuntu EC2 instance using Nginx and PHP. Student information submitted through the web application is stored in an Amazon RDS MySQL database.
