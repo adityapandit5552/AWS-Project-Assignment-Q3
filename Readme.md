@@ -1,8 +1,8 @@
 # AWS Q3 – EC2 + RDS Student Registration Application
 
-## working web url ⭐
+## Project Overview ⭐
 
-http://aditya-aws-static-website-2026.s3-website.ap-south-1.amazonaws.com/ Project Overview
+http://aditya-aws-static-website-2026.s3-website.ap-south-1.amazonaws.com/ 
 
 This project demonstrates the deployment of a student registration web application using **Amazon EC2 and Amazon RDS for MySQL**.
 
